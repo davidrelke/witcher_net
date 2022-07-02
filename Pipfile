@@ -11,6 +11,8 @@ networkx = "*"
 pyvis = "*"
 numpy = "*"
 matplotlib = "*"
+scipy = "*"
+python-louvain = "*"
 
 [dev-packages]
 
